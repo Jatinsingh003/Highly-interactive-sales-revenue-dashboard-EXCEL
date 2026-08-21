@@ -100,7 +100,7 @@ Order Status
 The dataset contains realistic variations across products, customers, regions, salespeople and order outcomes to simulate a business sales environment.
 
 📈 Executive Overview
-Screenshots/Executive_Overview.png.png
+Screenshots/Executive_Overview.png
 
 The Executive Overview is designed to provide a quick understanding of overall business performance.
 
@@ -190,7 +190,7 @@ Cancelled Orders / Total Orders
 Aggregate percentages are calculated from their underlying totals rather than simply averaging row-level percentages to avoid misleading results.
 
 🖥️ Dashboard Preview
-Screenshots/Dashboard_Preview.png.png
+Screenshots/Dashboard_Preview.png
 
 Detailed Analysis
 
