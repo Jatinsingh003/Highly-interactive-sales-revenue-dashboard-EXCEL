@@ -189,7 +189,7 @@ Cancelled Orders / Total Orders
 Aggregate percentages are calculated from their underlying totals rather than simply averaging row-level percentages to avoid misleading results.
 
 🖥️ Dashboard Preview
-Executive Overview
+Dashboard_Preview.png.png
 
 Detailed Analysis
 
